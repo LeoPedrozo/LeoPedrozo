@@ -69,6 +69,7 @@ Ingeniero en Informática, graduado distinguido de la FP-UNA, con más de 4 año
 - **Diplomado de Posgrado en IoT y Sistemas Embebidos**, FP-UNA. *Mayo 2025*
 - **Escuela de Verano de Informática Médica con IA**, UNAM (México). *Agosto 2025*
 - **Macroentrenamiento en Inteligencia Artificial (MeIA)**, UNAM y Red de Macro Universidades de América Latina y el Caribe. *Junio 2023*. Reconocimiento al **2.º lugar** por la solución "Inteligencia Artificial para clasificación de especies a partir de secuencias de ADN".
+- **Administración Linux (Linux SysAdmin I)**, curso de 30 horas, FP-UNA.
 - **Inglés**, Centro Cultural Paraguayo Americano (CCPA), hasta el curso "Avanzado Superior 2". *2015 – 2018*
 
 ---
@@ -76,7 +77,7 @@ Ingeniero en Informática, graduado distinguido de la FP-UNA, con más de 4 año
 ### Certificaciones
 
 - Google Cloud Digital Leader. *Google, 2026*
-- Oracle Certified Professional (OCP). *Oracle, 2025*
+- Oracle APEX Cloud Developer Certified Professional. *Oracle, 2025*
 - Salesforce Certified AI Associate. *Salesforce, 2024*
 - Salesforce Certified Platform Foundations. *Salesforce, 2023*
 
@@ -107,7 +108,7 @@ Ingeniero en Informática, graduado distinguido de la FP-UNA, con más de 4 año
 | Salesforce | Apex, LWC, Platform Events, Flows, Dashboards, APIs SOAP/REST, Bulk API, paquetes 2GP, Sales Cloud |
 | Oracle | Oracle APEX (incluidas sus funcionalidades de IA), PL/SQL, SQL, migración desde Oracle Forms, Jasper Reports |
 | Integraciones | SAP (SOAP), APIs REST, MQTT/TLS, ETL con Pentaho |
-| Programación | Python (Pandas, NumPy), Django, Kotlin (Android), JavaScript, PHP, WordPress, Leaflet |
+| Programación | Python (Pandas, NumPy), Django, Java, Kotlin (Android), JavaScript, PHP, WordPress, Leaflet |
 | Datos e IA | Procesamiento de imágenes médicas (SimpleITK), Machine Learning, limpieza y migración de datos |
 | Infraestructura y gestión | Linux, Google Cloud, IoT con ESP32, Git, Jira (Scrum/Kanban) |
 
@@ -162,6 +163,20 @@ Español (nativo) · Guaraní (nativo) · Inglés (avanzado en lectura y escritu
 <p align="center"><sub>Evento Oracle y Excelsis · Encuentro de la comunidad Salesforce</sub></p>
 
 #### Certificados y reconocimientos
+
+<p align="center">
+  <img src="assets/cert-oracle-apex-cloud-developer.jpg" height="160" alt="Oracle APEX Cloud Developer Certified Professional"/>
+  <img src="assets/cert-salesforce-ai-associate.jpg" height="160" alt="Salesforce Certified AI Associate"/>
+  <img src="assets/cert-salesforce-platform-foundations.jpg" height="160" alt="Salesforce Certified Platform Foundations"/>
+</p>
+<p align="center"><sub>Oracle APEX Cloud Developer Certified Professional · Salesforce Certified AI Associate · Salesforce Certified Platform Foundations</sub></p>
+
+<p align="center">
+  <img src="assets/cert-cnmac-2025.jpg" height="160" alt="Certificado de presentación, CNMAC 2025"/>
+  <img src="assets/cert-linux-sysadmin.jpg" height="160" alt="Curso Administración Linux (SysAdmin I), FP-UNA"/>
+  <img src="assets/cert-ccpa-ingles.jpg" height="160" alt="Programa de inglés, CCPA"/>
+</p>
+<p align="center"><sub>Certificado de presentación, CNMAC 2025 · Curso Administración Linux (SysAdmin I), FP-UNA · Programa de inglés, CCPA</sub></p>
 
 <p align="center">
   <img src="assets/cert-google-cloud-digital-leader.jpg" height="160" alt="Google Cloud Digital Leader"/>

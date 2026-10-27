@@ -69,6 +69,7 @@ Computer Engineer, graduated with distinction from FP-UNA, with over 4 years of 
 - **Postgraduate Diploma in IoT and Embedded Systems**, FP-UNA. *May 2025*
 - **Summer School on Medical Informatics with AI**, UNAM (Mexico). *August 2025*
 - **Macro-Training in Artificial Intelligence (MeIA)**, UNAM and the Latin American and Caribbean Macro Universities Network. *June 2023*. **2nd place** award for the solution "Artificial Intelligence for species classification from DNA sequences".
+- **Linux Administration (Linux SysAdmin I)**, 30-hour course, FP-UNA.
 - **English**, Centro Cultural Paraguayo Americano (CCPA), completed up to the "Avanzado Superior 2" (Upper Advanced 2) course. *2015 – 2018*
 
 ---
@@ -76,7 +77,7 @@ Computer Engineer, graduated with distinction from FP-UNA, with over 4 years of 
 ### Certifications
 
 - Google Cloud Digital Leader. *Google, 2026*
-- Oracle Certified Professional (OCP). *Oracle, 2025*
+- Oracle APEX Cloud Developer Certified Professional. *Oracle, 2025*
 - Salesforce Certified AI Associate. *Salesforce, 2024*
 - Salesforce Certified Platform Foundations. *Salesforce, 2023*
 
@@ -107,7 +108,7 @@ Computer Engineer, graduated with distinction from FP-UNA, with over 4 years of 
 | Salesforce | Apex, LWC, Platform Events, Flows, Dashboards, SOAP/REST APIs, Bulk API, 2GP packages, Sales Cloud |
 | Oracle | Oracle APEX (including its AI features), PL/SQL, SQL, Oracle Forms migration, Jasper Reports |
 | Integrations | SAP (SOAP), REST APIs, MQTT/TLS, Pentaho ETL |
-| Programming | Python (Pandas, NumPy), Django, Kotlin (Android), JavaScript, PHP, WordPress, Leaflet |
+| Programming | Python (Pandas, NumPy), Django, Java, Kotlin (Android), JavaScript, PHP, WordPress, Leaflet |
 | Data & AI | Medical image processing (SimpleITK), Machine Learning, data cleansing and migration |
 | Infrastructure & Management | Linux, Google Cloud, IoT with ESP32, Git, Jira (Scrum/Kanban) |
 
@@ -162,6 +163,20 @@ Spanish (native) · Guarani (native) · English (advanced reading and writing, i
 <p align="center"><sub>Oracle and Excelsis event · Salesforce community meetup</sub></p>
 
 #### Certificates and awards
+
+<p align="center">
+  <img src="assets/cert-oracle-apex-cloud-developer.jpg" height="160" alt="Oracle APEX Cloud Developer Certified Professional"/>
+  <img src="assets/cert-salesforce-ai-associate.jpg" height="160" alt="Salesforce Certified AI Associate"/>
+  <img src="assets/cert-salesforce-platform-foundations.jpg" height="160" alt="Salesforce Certified Platform Foundations"/>
+</p>
+<p align="center"><sub>Oracle APEX Cloud Developer Certified Professional · Salesforce Certified AI Associate · Salesforce Certified Platform Foundations</sub></p>
+
+<p align="center">
+  <img src="assets/cert-cnmac-2025.jpg" height="160" alt="Presentation certificate, CNMAC 2025"/>
+  <img src="assets/cert-linux-sysadmin.jpg" height="160" alt="Linux Administration course (SysAdmin I), FP-UNA"/>
+  <img src="assets/cert-ccpa-ingles.jpg" height="160" alt="English program, CCPA"/>
+</p>
+<p align="center"><sub>Presentation certificate, CNMAC 2025 · Linux Administration course (SysAdmin I), FP-UNA · English program, CCPA</sub></p>
 
 <p align="center">
   <img src="assets/cert-google-cloud-digital-leader.jpg" height="160" alt="Google Cloud Digital Leader"/>
