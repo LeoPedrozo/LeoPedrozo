@@ -53,7 +53,7 @@ Computer Engineer, graduated with distinction from FP-UNA, with over 4 years of 
 - **Automotive company:** cleaned up and merged duplicate records with Pentaho ETL processes and the Salesforce Bulk API, automated with Python (Pandas) in Jupyter Notebook.
 - Supported and maintained system integrations with Salesforce.
 
-**Support & Development**, National Securities Commission (CNV), Paraguay<br>
+**Support & Development Intern**, National Securities Commission (CNV), Paraguay<br>
 *August 2022 – March 2023*
 - Gathered requirements to implement a document management system on Salesforce Sales Cloud for CNV.
 - Developed data-availability APIs with Django and Python.

@@ -53,7 +53,7 @@ Ingeniero en Informática, graduado distinguido de la FP-UNA, con más de 4 año
 - **Empresa del rubro automotor:** depuré y unifiqué registros duplicados con procesos ETL en Pentaho y la Bulk API de Salesforce, automatizados con Python (Pandas) en Jupyter Notebook.
 - Di soporte y mantenimiento a integraciones de sistemas con Salesforce.
 
-**Soporte y Desarrollo**, Comisión Nacional de Valores (CNV), Paraguay<br>
+**Pasante de Soporte y Desarrollo**, Comisión Nacional de Valores (CNV), Paraguay<br>
 *Agosto 2022 – Marzo 2023*
 - Relevé requerimientos para implementar en Salesforce Sales Cloud un sistema de gestión de documentos para la CNV.
 - Desarrollé APIs de disponibilidad de datos con Django y Python.
