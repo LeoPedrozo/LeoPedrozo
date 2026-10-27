@@ -68,6 +68,7 @@ Ingeniero en Informática, graduado distinguido de la FP-UNA, con más de 4 año
 - **Especialización en Didáctica de la Educación Superior**, Facultad Politécnica, UNA. *Julio 2026 – Abril 2027 (en curso)*
 - **Diplomado de Posgrado en IoT y Sistemas Embebidos**, FP-UNA. *Mayo 2025*
 - **Escuela de Verano de Informática Médica con IA**, UNAM (México). *Agosto 2025*
+- **Macroentrenamiento en Inteligencia Artificial (MeIA)**, UNAM y Red de Macro Universidades de América Latina y el Caribe. *Junio 2023*. Reconocimiento al **2.º lugar** por la solución "Inteligencia Artificial para clasificación de especies a partir de secuencias de ADN".
 - **Inglés**, Centro Cultural Paraguayo Americano (CCPA), hasta el curso "Avanzado Superior 2". *2015 – 2018*
 
 ---
@@ -93,8 +94,9 @@ Ingeniero en Informática, graduado distinguido de la FP-UNA, con más de 4 año
 
 ### Publicaciones y presentaciones
 
-- **"Contour-Point Signature in Registration of Tomography and Magnetic Resonance Images"**: póster en el XLIV Congreso Nacional de Matemática Aplicada y Computacional (CNMAC 2025), organizado por la SBMAC, Brasil, septiembre de 2025. Publicado en *Proceeding Series of the Brazilian Society of Computational and Applied Mathematics*.
-- **"Eficiencia del uso del CPS en Registro de imágenes médicas"**: ponencia remota en el V Encuentro de Matemáticas y Estadística Aplicadas a las Ciencias Sociales y Económicas, Colombia, mayo de 2025. Publicado en las *Memorias* del encuentro.
+- **"Contour-Point Signature in Registration of Tomography and Magnetic Resonance Images"**: póster en el XLIV Congreso Nacional de Matemática Aplicada y Computacional (CNMAC 2025), organizado por la SBMAC, Brasil, septiembre de 2025. Publicado en [*Proceeding Series of the Brazilian Society of Computational and Applied Mathematics*, v. 12 n. 1 (2026)](https://proceedings.sbmac.org.br/sbmac).
+- **"Eficiencia del uso del CPS en Registro de imágenes médicas"**: ponencia remota en el V Encuentro de Matemáticas y Estadística Aplicadas a las Ciencias Sociales y Económicas, Colombia, mayo de 2025. Publicado en las *Memorias* del encuentro (2026), [DOI: 10.18359/litgris.8305](https://doi.org/10.18359/litgris.8305).
+- **"Uso del descriptor firma punto-contorno en el registro de imágenes de tomografía y resonancia magnética"**: póster en la 4.ª Jornada Internacional de Cursos de Especialización AMARU-CYTED 2024, UNA, agosto de 2024.
 
 ---
 
@@ -128,11 +130,49 @@ Español (nativo) · Guaraní (nativo) · Inglés (avanzado en lectura y escritu
 
 ---
 
-### Anexo: Galería
+### Anexo
+
+#### Fotos
 
 <p align="center">
-  <img src="assets/foto-poster-cnmac2025.jpg" width="24%" alt="Póster en el CNMAC 2025, Brasil"/>
-  <img src="assets/foto-workshop-presentacion.jpg" width="36%" alt="Presentación sobre registro de imágenes médicas"/>
-  <img src="assets/foto-workshop-grupo.jpg" width="36%" alt="Grupo de Investigación en Computación Científica y Matemática Aplicada"/>
+  <img src="assets/foto-graduado-distinguido.jpg" height="160" alt="Graduado distinguido, FP-UNA 2025"/>
+  <img src="assets/foto-graduacion.jpg" height="160" alt="Graduación en Ingeniería en Informática"/>
+  <img src="assets/foto-defensa-tesis.jpg" height="160" alt="Defensa de tesis"/>
 </p>
-<p align="center"><sub>Póster en el CNMAC 2025 (Brasil) · Presentación y foto grupal en el Workshop de Clausura del Grupo de Investigación en Computación Científica y Matemática Aplicada</sub></p>
+<p align="center"><sub>Graduado distinguido, FP-UNA 2025 · Graduación en Ingeniería en Informática · Defensa de tesis</sub></p>
+
+<p align="center">
+  <img src="assets/foto-poster-cnmac2025.jpg" height="160" alt="Póster en el CNMAC 2025, Brasil"/>
+  <img src="assets/foto-poster-cyted-2024.jpg" height="160" alt="Póster en la Jornada AMARU-CYTED 2024"/>
+  <img src="assets/foto-presentacion-cps.jpg" height="160" alt="Presentación del método CPS"/>
+</p>
+<p align="center"><sub>Póster en el CNMAC 2025, Brasil · Póster en la Jornada AMARU-CYTED 2024 · Presentación del método CPS</sub></p>
+
+<p align="center">
+  <img src="assets/foto-workshop-presentacion.jpg" height="160" alt="Presentación en el workshop del grupo de investigación"/>
+  <img src="assets/foto-workshop-grupo.jpg" height="160" alt="Grupo de Investigación en Computación Científica y Matemática Aplicada"/>
+  <img src="assets/foto-diplomado-iot.jpg" height="160" alt="Diplomado en Sistemas Embebidos e IoT"/>
+</p>
+<p align="center"><sub>Presentación en el workshop del grupo de investigación · Grupo de Investigación en Computación Científica y Matemática Aplicada · Diplomado en Sistemas Embebidos e IoT</sub></p>
+
+<p align="center">
+  <img src="assets/foto-excelsis-oracle.jpg" height="160" alt="Evento Oracle y Excelsis"/>
+  <img src="assets/foto-salesforce-friends.jpg" height="160" alt="Encuentro de la comunidad Salesforce"/>
+</p>
+<p align="center"><sub>Evento Oracle y Excelsis · Encuentro de la comunidad Salesforce</sub></p>
+
+#### Certificados y reconocimientos
+
+<p align="center">
+  <img src="assets/cert-google-cloud-digital-leader.jpg" height="160" alt="Google Cloud Digital Leader"/>
+  <img src="assets/cert-diplomado-iot.jpg" height="160" alt="Diplomado en Sistemas Embebidos e IoT, FP-UNA"/>
+  <img src="assets/cert-cyted-amaru-2024.jpg" height="160" alt="Certificado de póster, AMARU-CYTED 2024"/>
+</p>
+<p align="center"><sub>Google Cloud Digital Leader · Diplomado en Sistemas Embebidos e IoT, FP-UNA · Certificado de póster, AMARU-CYTED 2024</sub></p>
+
+<p align="center">
+  <img src="assets/reconocimiento-unam-meia-2023.jpg" height="160" alt="Reconocimiento 2.º lugar, MeIA 2023 (UNAM)"/>
+  <img src="assets/cert-unam-meia-2023.jpg" height="160" alt="Constancia del taller MeIA 2023 (UNAM)"/>
+  <img src="assets/cert-cnv-pasantia.jpg" height="160" alt="Certificado de pasantía, CNV"/>
+</p>
+<p align="center"><sub>Reconocimiento 2.º lugar, MeIA 2023 (UNAM) · Constancia del taller MeIA 2023 (UNAM) · Certificado de pasantía, CNV</sub></p>
