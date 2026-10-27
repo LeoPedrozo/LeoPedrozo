@@ -95,7 +95,7 @@ Ingeniero en Informática, graduado distinguido de la FP-UNA, con más de 4 año
 
 ### Publicaciones y presentaciones
 
-- **"Contour-Point Signature in Registration of Tomography and Magnetic Resonance Images"**: póster en el XLIV Congreso Nacional de Matemática Aplicada y Computacional (CNMAC 2025), organizado por la SBMAC, Brasil, septiembre de 2025. Publicado en [*Proceeding Series of the Brazilian Society of Computational and Applied Mathematics*, v. 12 n. 1 (2026)](https://proceedings.sbmac.org.br/sbmac).
+- **"Contour-Point Signature in Registration of Tomography and Magnetic Resonance Images"**: póster y comunicación oral en el XLIV Congreso Nacional de Matemática Aplicada y Computacional (CNMAC 2025), organizado por la SBMAC, Brasil, septiembre de 2025. Publicado en [*Proceeding Series of the Brazilian Society of Computational and Applied Mathematics*, v. 12 n. 1 (2026)](https://proceedings.sbmac.org.br/sbmac).
 - **"Eficiencia del uso del CPS en Registro de imágenes médicas"**: ponencia remota en el V Encuentro de Matemáticas y Estadística Aplicadas a las Ciencias Sociales y Económicas, Colombia, mayo de 2025. Publicado en las *Memorias* del encuentro (2026), [DOI: 10.18359/litgris.8305](https://doi.org/10.18359/litgris.8305).
 - **"Uso del descriptor firma punto-contorno en el registro de imágenes de tomografía y resonancia magnética"**: póster en la 4.ª Jornada Internacional de Cursos de Especialización AMARU-CYTED 2024, UNA, agosto de 2024.
 
