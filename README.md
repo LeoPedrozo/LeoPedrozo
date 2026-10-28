@@ -1,80 +1,80 @@
-<!-- README de perfil, estilo CV: va en el repo público github.com/LeoPedrozo/LeoPedrozo. -->
+<!-- Profile README (default, English). Spanish version: README.es.md. Public repo github.com/LeoPedrozo/LeoPedrozo. -->
 
-<p align="right"><b>Español</b> · <a href="README.en.md">English</a></p>
+<p align="right"><b>English</b> · <a href="README.es.md">Español</a></p>
 
-<p align="center"><img src="assets/banner-es.svg" width="100%" alt="Ingeniero de Software: Oracle APEX, Salesforce e IA"/></p>
+<p align="center"><img src="assets/banner-en.svg" width="100%" alt="Software Engineer: Oracle APEX, Salesforce and AI"/></p>
 
 # Oscar Leonardo Pedrozo
 
-**Ingeniero de Software**: Oracle APEX · Salesforce · Datos e Integraciones<br>
+**Software Engineer**: Oracle APEX · Salesforce · Data & Integrations<br>
 Asunción, Paraguay · [LinkedIn](https://www.linkedin.com/in/oscar-leonardo-pedrozo) · [GitHub](https://github.com/LeoPedrozo)
 
 ---
 
-### Perfil profesional
+### Summary
 
-Ingeniero en Informática, graduado distinguido de la FP-UNA, con más de 4 años de experiencia en desarrollo empresarial sobre **Oracle APEX** y **Salesforce**. Participé en la migración de un sistema del sector salud de Oracle Forms 6i a APEX, integré Salesforce con sistemas core y SAP, y desarrollé una solución de telemetría de flotas con Platform Events, REST API y MQTT. Actualmente desarrollo proyectos de IA con Oracle APEX y sus nuevas funcionalidades de IA de la versión 26.2. Complemento mi trabajo con investigación en procesamiento de imágenes médicas, con trabajos presentados en Brasil y Colombia.
-
----
-
-### Experiencia
-
-**Desarrollador Salesforce**, Freelance<br>
-*Enero 2026 – Presente*
-- Desarrollé un paquete Salesforce de segunda generación (2GP) de telemetría y seguimiento para una flota de vehículos de logística, sobre Sales Cloud.
-  - Seguimiento de posición actual y rutas de trabajo, control de tiempo en ralentí y registro de múltiples sensores por vehículo.
-  - Arquitectura pub/sub con Platform Events para procesar los eventos de telemetría.
-  - REST API en Apex con operaciones GET, POST y PUT, consumida por una plataforma externa que integra las principales APIs de telemetría para control de flotas.
-  - Interfaz en Lightning Web Components (LWC) con mapas interactivos en Leaflet.
-  - Configuración de permisos de acceso al sistema y a sus clases.
-- Extendí una app Android de código abierto en Kotlin para el seguimiento del personal en campo, agregando soporte para el protocolo MQTT sobre TLS y lectura de sensores.
-
-**Desarrollador Oracle APEX**, Excelsis S.A.<br>
-*Junio 2024 – Presente*
-- Desarrollo y optimizo aplicaciones de sistemas médicos con PL/SQL y Oracle APEX.
-- Diseño triggers, procedimientos y funciones de base de datos complejos para mejorar la lógica del sistema.
-- Implemento soluciones de reportes con Jasper Reports.
-- Entrego módulos de software en plazo con metodologías ágiles.
-- **Asistente de IA para atención al cliente de un ERP médico** (2026, en producción): chatbot en Oracle APEX 26.2 para un ERP utilizado en hospitales, sanatorios y prepagas de Paraguay.
-  - Integré OCI Generative AI con un modelo reciente de Grok (xAI) como motor del asistente.
-  - Centralicé la información del cliente obtenida mediante PL/SQL para dar respuestas contextualizadas.
-  - Protegí la información sensible de los pacientes con datos encriptados.
-- **Consultoría on-site para un sanatorio de medicina prepaga** (mayo – agosto 2026): migración de su sistema de Oracle Forms 6i a Oracle APEX 22.1, completada con éxito.
-  - Analicé y desarrollé páginas en Oracle APEX para migrar formularios y lógica de negocio de Forms 6i.
-  - Fui el nexo entre el cliente y el equipo de desarrollo, relevando y traduciendo requerimientos.
-  - Implementé mejoras en triggers y procedimientos PL/SQL.
-  - Apoyé el desarrollo de reportes con Jasper Reports.
-  - Asesoré al cliente en la planificación de futuras migraciones a versiones más recientes de Oracle APEX.
-
-**Desarrollador Salesforce**, Excelsis S.A.<br>
-*Abril 2023 – Junio 2024*
-- **Casa de bolsa:** integré los leads y cuentas de su sistema core con Salesforce Sales Cloud, de inicio a fin del proyecto, usando Apex y las APIs SOAP y REST de Salesforce.
-- **Venta de maquinarias:** desarrollé formularios personalizados en Salesforce para el proceso de venta e integré Salesforce con SAP mediante la API SOAP.
-- **Empresa del rubro automotor:** depuré y unifiqué registros duplicados con procesos ETL en Pentaho y la Bulk API de Salesforce, automatizados con Python (Pandas) en Jupyter Notebook.
-- Di soporte y mantenimiento a integraciones de sistemas con Salesforce.
-
-**Pasante de Soporte y Desarrollo**, Comisión Nacional de Valores (CNV), Paraguay<br>
-*Agosto 2022 – Marzo 2023*
-- Relevé requerimientos para implementar en Salesforce Sales Cloud un sistema de gestión de documentos para la CNV.
-- Desarrollé APIs de disponibilidad de datos con Django y Python.
-- Mantuve el sitio WordPress institucional y desarrollé en PHP nuevas páginas para listar las emisoras de bonos.
-- Administré servidores Windows y Ubuntu y monitoreé los sistemas de respaldo (Veeam).
+Computer Engineer, graduated with distinction from FP-UNA, with over 4 years of experience in enterprise development on **Oracle APEX** and **Salesforce**. I took part in migrating a healthcare system from Oracle Forms 6i to APEX, integrated Salesforce with core systems and SAP, and built a fleet telemetry solution with Platform Events, REST APIs and MQTT. I am currently developing AI projects with Oracle APEX and the new AI features in version 26.2. I complement my work with research in medical image processing, with papers presented in Brazil and Colombia.
 
 ---
 
-### Educación
+### Experience
 
-- **Ingeniería en Informática**, Facultad Politécnica, UNA. *Graduado distinguido en noviembre de 2025*
-- **Especialización en Didáctica de la Educación Superior**, Facultad Politécnica, UNA. *Julio 2026 – Abril 2027 (en curso)*
-- **Diplomado de Posgrado en IoT y Sistemas Embebidos**, FP-UNA. *Mayo 2025*
-- **Escuela de Verano de Informática Médica con IA**, UNAM (México). *Agosto 2025*
-- **Macroentrenamiento en Inteligencia Artificial (MeIA)**, UNAM y Red de Macro Universidades de América Latina y el Caribe. *Junio 2023*. Reconocimiento al **2.º lugar** por la solución "Inteligencia Artificial para clasificación de especies a partir de secuencias de ADN".
-- **Administración Linux (Linux SysAdmin I)**, curso de 30 horas, FP-UNA.
-- **Inglés**, Centro Cultural Paraguayo Americano (CCPA), hasta el curso "Avanzado Superior 2". *2015 – 2018*
+**Salesforce Developer**, Freelance<br>
+*January 2026 – Present*
+- Built a second-generation Salesforce package (2GP) for telemetry and tracking of a logistics vehicle fleet, on Sales Cloud.
+  - Real-time position and work-route tracking, idle-time monitoring, and multi-sensor logging per vehicle.
+  - Pub/sub architecture with Platform Events to process telemetry events.
+  - Apex REST API with GET, POST and PUT operations, consumed by an external platform that integrates the leading fleet-telemetry APIs.
+  - Lightning Web Components (LWC) interface with interactive Leaflet maps.
+  - Configured permissions for access to the system and its classes.
+- Extended an open-source Kotlin Android app for field staff tracking, adding MQTT over TLS support and sensor readings.
+
+**Oracle APEX Developer**, Excelsis S.A.<br>
+*June 2024 – Present*
+- Develop and optimize medical systems applications with PL/SQL and Oracle APEX.
+- Design complex database triggers, procedures and functions to improve system logic.
+- Implement reporting solutions with Jasper Reports.
+- Deliver software modules on schedule using Agile methodologies.
+- **AI customer-service assistant for a medical ERP** (2026, in production): chatbot built on Oracle APEX 26.2 for an ERP used by hospitals, clinics and prepaid healthcare providers in Paraguay.
+  - Integrated OCI Generative AI with a recent xAI Grok model as the assistant's engine.
+  - Centralized customer information retrieved through PL/SQL to provide context-aware answers.
+  - Protected sensitive patient information through data encryption.
+- **On-site consulting for a prepaid healthcare provider** (May – August 2026): successfully completed the migration of its system from Oracle Forms 6i to Oracle APEX 22.1.
+  - Analyzed and built Oracle APEX pages to migrate Forms 6i screens and business logic.
+  - Served as liaison between the client and the development team, gathering and translating requirements.
+  - Improved PL/SQL triggers and procedures.
+  - Supported report development with Jasper Reports.
+  - Advised the client on planning future migrations to newer Oracle APEX versions.
+
+**Salesforce Developer**, Excelsis S.A.<br>
+*April 2023 – June 2024*
+- **Brokerage firm:** integrated leads and accounts from its core system into Salesforce Sales Cloud, end to end, using Apex and the Salesforce SOAP and REST APIs.
+- **Machinery sales:** built custom Salesforce forms for the sales process and integrated Salesforce with SAP through its SOAP API.
+- **Automotive company:** cleaned up and merged duplicate records with Pentaho ETL processes and the Salesforce Bulk API, automated with Python (Pandas) in Jupyter Notebook.
+- Supported and maintained system integrations with Salesforce.
+
+**Support & Development Intern**, National Securities Commission (CNV), Paraguay<br>
+*August 2022 – March 2023*
+- Gathered requirements to implement a document management system on Salesforce Sales Cloud for CNV.
+- Developed data-availability APIs with Django and Python.
+- Maintained the institutional WordPress site and built new PHP pages listing bond issuers.
+- Administered Windows and Ubuntu servers and monitored backup systems (Veeam).
 
 ---
 
-### Certificaciones
+### Education
+
+- **B.Sc. in Computer Engineering**, Facultad Politécnica, UNA. *Graduated with distinction, November 2025*
+- **Specialization in Higher Education Teaching**, Facultad Politécnica, UNA. *July 2026 – April 2027 (in progress)*
+- **Postgraduate Diploma in IoT and Embedded Systems**, FP-UNA. *May 2025*
+- **Summer School on Medical Informatics with AI**, UNAM (Mexico). *August 2025*
+- **Macro-Training in Artificial Intelligence (MeIA)**, UNAM and the Latin American and Caribbean Macro Universities Network. *June 2023*. **2nd place** award for the solution "Artificial Intelligence for species classification from DNA sequences".
+- **Linux Administration (Linux SysAdmin I)**, 30-hour course, FP-UNA.
+- **English**, Centro Cultural Paraguayo Americano (CCPA), completed up to the "Avanzado Superior 2" (Upper Advanced 2) course. *2015 – 2018*
+
+---
+
+### Certifications
 
 - Google Cloud Digital Leader. *Google, 2026*
 - Oracle APEX Cloud Developer Certified Professional. *Oracle, 2025*
@@ -83,86 +83,86 @@ Ingeniero en Informática, graduado distinguido de la FP-UNA, con más de 4 año
 
 ---
 
-### Investigación
+### Research
 
-**Registro de imágenes médicas de tomografía y resonancia magnética con el descriptor Firma Punto-Contorno (CPS)**<br>
-*Grupo de Investigación en Computación Científica y Matemática Aplicada, FP-UNA · Septiembre 2024 – Noviembre 2025*
-- Desarrollé un método de registro de imágenes médicas basado en el CPS, un método matemático de la familia de los descriptores de forma (*shape descriptors*): el CPS representa el contorno de cada imagen y una matriz de costos determina la rotación óptima y los puntos correspondientes para un registro por puntos de referencia.
-- Evalué el método con imágenes de CT y RM de la base pública RIRE (Universidad de Vanderbilt): en los cortes de un paciente de prueba alcanzó una precisión del 72,80 % para 10 puntos extraídos, con un umbral de error del 1 % (≈ 5,12 píxeles).
-- Implementé el procesamiento en Python con SimpleITK.
-- Proyecto financiado con fondos de la FP-UNA, a través de su Programa de Fortalecimiento para el Desarrollo de la Ciencia, Tecnología e Innovación (2025), y patrocinado por Excelsis S.A.
-- Trabajé junto a investigadores destacados de la FP-UNA y la FIUNA, en un grupo multidisciplinario.
+**Registration of CT and MR medical images with the Contour-Point Signature (CPS) descriptor**<br>
+*Research Group on Scientific Computing and Applied Mathematics, FP-UNA · September 2024 – November 2025*
+- Developed a medical image registration method based on CPS, a mathematical method from the shape descriptor family: CPS represents each image's contour, and a cost matrix finds the optimal rotation and point correspondences for landmark-based registration.
+- Evaluated the method on CT and MR images from the public RIRE dataset (Vanderbilt University): on a test patient's slices it reached 72.80% accuracy for 10 extracted points, with a 1% error threshold (≈ 5.12 pixels).
+- Implemented the processing pipeline in Python with SimpleITK.
+- Funded by FP-UNA through its Program for Strengthening Science, Technology and Innovation (2025), and sponsored by Excelsis S.A.
+- Worked alongside leading researchers from FP-UNA and FIUNA in a multidisciplinary group.
 
-### Publicaciones y presentaciones
+### Publications & Presentations
 
-- **"Contour-Point Signature in Registration of Tomography and Magnetic Resonance Images"**: póster y comunicación oral en el XLIV Congreso Nacional de Matemática Aplicada y Computacional (CNMAC 2025), organizado por la SBMAC, Brasil, septiembre de 2025. Publicado en [*Proceeding Series of the Brazilian Society of Computational and Applied Mathematics*, v. 12 n. 1 (2026)](https://proceedings.sbmac.org.br/sbmac).
-- **"Eficiencia del uso del CPS en Registro de imágenes médicas"**: ponencia remota en el V Encuentro de Matemáticas y Estadística Aplicadas a las Ciencias Sociales y Económicas, Colombia, mayo de 2025. Publicado en las *Memorias* del encuentro (2026), [DOI: 10.18359/litgris.8305](https://doi.org/10.18359/litgris.8305).
-- **"Uso del descriptor firma punto-contorno en el registro de imágenes de tomografía y resonancia magnética"**: póster en la 4.ª Jornada Internacional de Cursos de Especialización AMARU-CYTED 2024, UNA, agosto de 2024.
+- **"Contour-Point Signature in Registration of Tomography and Magnetic Resonance Images"**: poster and oral presentation at the XLIV National Congress of Applied and Computational Mathematics (CNMAC 2025), organized by SBMAC, Brazil, September 2025. Published in [*Proceeding Series of the Brazilian Society of Computational and Applied Mathematics*, v. 12 n. 1 (2026)](https://proceedings.sbmac.org.br/sbmac).
+- **"Eficiencia del uso del CPS en Registro de imágenes médicas"** (Efficiency of CPS in Medical Image Registration): remote talk at the V Meeting on Mathematics and Statistics Applied to the Social and Economic Sciences, Colombia, May 2025. Published in the meeting's proceedings (2026), [DOI: 10.18359/litgris.8305](https://doi.org/10.18359/litgris.8305).
+- **"Uso del descriptor firma punto-contorno en el registro de imágenes de tomografía y resonancia magnética"** (Contour-point signature descriptor for CT and MR image registration): poster at the 4th AMARU-CYTED International Specialization Courses Conference 2024, UNA, August 2024.
 
 ---
 
-### Habilidades técnicas
+### Technical Skills
 
-| Área | Habilidades |
+| Area | Skills |
 |---|---|
-| Salesforce | Apex, LWC, Platform Events, Flows, Dashboards, APIs SOAP/REST, Bulk API, paquetes 2GP, Sales Cloud |
-| Oracle | Oracle APEX (incluidas sus funcionalidades de IA), PL/SQL, SQL, migración desde Oracle Forms, Jasper Reports |
-| Integraciones | SAP (SOAP), APIs REST, MQTT/TLS, ETL con Pentaho |
-| Programación | Python (Pandas, NumPy), Django, Java, Kotlin (Android), JavaScript, PHP, WordPress, Leaflet |
-| Datos e IA | Procesamiento de imágenes médicas (SimpleITK), Machine Learning, limpieza y migración de datos |
-| Infraestructura y gestión | Linux, Google Cloud, IoT con ESP32, Git, Jira (Scrum/Kanban) |
+| Salesforce | Apex, LWC, Platform Events, Flows, Dashboards, SOAP/REST APIs, Bulk API, 2GP packages, Sales Cloud |
+| Oracle | Oracle APEX (including its AI features), PL/SQL, SQL, Oracle Forms migration, Jasper Reports |
+| Integrations | SAP (SOAP), REST APIs, MQTT/TLS, Pentaho ETL |
+| Programming | Python (Pandas, NumPy), Django, Java, Kotlin (Android), JavaScript, PHP, WordPress, Leaflet |
+| Data & AI | Medical image processing (SimpleITK), Machine Learning, data cleansing and migration |
+| Infrastructure & Management | Linux, Google Cloud, IoT with ESP32, Git, Jira (Scrum/Kanban) |
 
 ---
 
-### Idiomas
+### Languages
 
-Español (nativo) · Guaraní (nativo) · Inglés (avanzado en lectura y escritura, intermedio en conversación)
+Spanish (native) · Guarani (native) · English (advanced reading and writing, intermediate speaking)
 
 ---
 
-### Repositorios destacados
+### Selected Repositories
 
-| Repositorio | Descripción |
+| Repository | Description |
 |---|---|
-| [envio_masivo_sms_vox](https://github.com/LeoPedrozo/envio_masivo_sms_vox) | Procedimiento PL/SQL para envío masivo de SMS con la API de Vox Paraguay. |
-| [simpleITKnotebooks](https://github.com/LeoPedrozo/simpleITKnotebooks) | Notebooks de procesamiento de imágenes médicas con SimpleITK. |
-| [MEIA](https://github.com/LeoPedrozo/MEIA) | Ejercicios de un taller de entrenamiento en IA. |
-| [laberinto-caminocorto](https://github.com/LeoPedrozo/laberinto-caminocorto) | Camino más corto en un laberinto, en C. |
+| [envio_masivo_sms_vox](https://github.com/LeoPedrozo/envio_masivo_sms_vox) | PL/SQL procedure for bulk SMS sending through the Vox Paraguay API. |
+| [simpleITKnotebooks](https://github.com/LeoPedrozo/simpleITKnotebooks) | Medical image processing notebooks with SimpleITK. |
+| [MEIA](https://github.com/LeoPedrozo/MEIA) | Exercises from an AI training workshop. |
+| [laberinto-caminocorto](https://github.com/LeoPedrozo/laberinto-caminocorto) | Shortest path through a maze, in C. |
 
 ---
 
-### Anexo
+### Appendix
 
-#### Fotos
-
-<p align="center">
-  <img src="assets/foto-graduado-distinguido.jpg" height="160" alt="Graduado distinguido, FP-UNA 2025"/>
-  <img src="assets/foto-graduacion.jpg" height="160" alt="Graduación en Ingeniería en Informática"/>
-  <img src="assets/foto-defensa-tesis.jpg" height="160" alt="Defensa de tesis"/>
-</p>
-<p align="center"><sub>Graduado distinguido, FP-UNA 2025 · Graduación en Ingeniería en Informática · Defensa de tesis</sub></p>
+#### Photos
 
 <p align="center">
-  <img src="assets/foto-poster-cnmac2025.jpg" height="160" alt="Póster en el CNMAC 2025, Brasil"/>
-  <img src="assets/foto-poster-cyted-2024.jpg" height="160" alt="Póster en la Jornada AMARU-CYTED 2024"/>
-  <img src="assets/foto-presentacion-cps.jpg" height="160" alt="Presentación del método CPS"/>
+  <img src="assets/foto-graduado-distinguido.jpg" height="160" alt="Graduated with distinction, FP-UNA 2025"/>
+  <img src="assets/foto-graduacion.jpg" height="160" alt="Computer Engineering graduation"/>
+  <img src="assets/foto-defensa-tesis.jpg" height="160" alt="Thesis defense"/>
 </p>
-<p align="center"><sub>Póster en el CNMAC 2025, Brasil · Póster en la Jornada AMARU-CYTED 2024 · Presentación del método CPS</sub></p>
+<p align="center"><sub>Graduated with distinction, FP-UNA 2025 · Computer Engineering graduation · Thesis defense</sub></p>
 
 <p align="center">
-  <img src="assets/foto-workshop-presentacion.jpg" height="160" alt="Presentación en el workshop del grupo de investigación"/>
-  <img src="assets/foto-workshop-grupo.jpg" height="160" alt="Grupo de Investigación en Computación Científica y Matemática Aplicada"/>
-  <img src="assets/foto-diplomado-iot.jpg" height="160" alt="Diplomado en Sistemas Embebidos e IoT"/>
+  <img src="assets/foto-poster-cnmac2025.jpg" height="160" alt="Poster at CNMAC 2025, Brazil"/>
+  <img src="assets/foto-poster-cyted-2024.jpg" height="160" alt="Poster at the AMARU-CYTED 2024 conference"/>
+  <img src="assets/foto-presentacion-cps.jpg" height="160" alt="Presenting the CPS method"/>
 </p>
-<p align="center"><sub>Presentación en el workshop del grupo de investigación · Grupo de Investigación en Computación Científica y Matemática Aplicada · Diplomado en Sistemas Embebidos e IoT</sub></p>
+<p align="center"><sub>Poster at CNMAC 2025, Brazil · Poster at the AMARU-CYTED 2024 conference · Presenting the CPS method</sub></p>
 
 <p align="center">
-  <img src="assets/foto-excelsis-oracle.jpg" height="160" alt="Evento Oracle y Excelsis"/>
-  <img src="assets/foto-salesforce-friends.jpg" height="160" alt="Encuentro de la comunidad Salesforce"/>
+  <img src="assets/foto-workshop-presentacion.jpg" height="160" alt="Talk at the research group workshop"/>
+  <img src="assets/foto-workshop-grupo.jpg" height="160" alt="Research Group on Scientific Computing and Applied Mathematics"/>
+  <img src="assets/foto-diplomado-iot.jpg" height="160" alt="Embedded Systems and IoT Diploma"/>
 </p>
-<p align="center"><sub>Evento Oracle y Excelsis · Encuentro de la comunidad Salesforce</sub></p>
+<p align="center"><sub>Talk at the research group workshop · Research Group on Scientific Computing and Applied Mathematics · Embedded Systems and IoT Diploma</sub></p>
 
-#### Certificados y reconocimientos
+<p align="center">
+  <img src="assets/foto-excelsis-oracle.jpg" height="160" alt="Oracle and Excelsis event"/>
+  <img src="assets/foto-salesforce-friends.jpg" height="160" alt="Salesforce community meetup"/>
+</p>
+<p align="center"><sub>Oracle and Excelsis event · Salesforce community meetup</sub></p>
+
+#### Certificates and awards
 
 <p align="center">
   <img src="assets/cert-oracle-apex-cloud-developer.jpg" height="160" alt="Oracle APEX Cloud Developer Certified Professional"/>
@@ -172,22 +172,22 @@ Español (nativo) · Guaraní (nativo) · Inglés (avanzado en lectura y escritu
 <p align="center"><sub>Oracle APEX Cloud Developer Certified Professional · Salesforce Certified AI Associate · Salesforce Certified Platform Foundations</sub></p>
 
 <p align="center">
-  <img src="assets/cert-cnmac-2025.jpg" height="160" alt="Certificado de presentación, CNMAC 2025"/>
-  <img src="assets/cert-linux-sysadmin.jpg" height="160" alt="Curso Administración Linux (SysAdmin I), FP-UNA"/>
-  <img src="assets/cert-ccpa-ingles.jpg" height="160" alt="Programa de inglés, CCPA"/>
+  <img src="assets/cert-cnmac-2025.jpg" height="160" alt="Presentation certificate, CNMAC 2025"/>
+  <img src="assets/cert-linux-sysadmin.jpg" height="160" alt="Linux Administration course (SysAdmin I), FP-UNA"/>
+  <img src="assets/cert-ccpa-ingles.jpg" height="160" alt="English program, CCPA"/>
 </p>
-<p align="center"><sub>Certificado de presentación, CNMAC 2025 · Curso Administración Linux (SysAdmin I), FP-UNA · Programa de inglés, CCPA</sub></p>
+<p align="center"><sub>Presentation certificate, CNMAC 2025 · Linux Administration course (SysAdmin I), FP-UNA · English program, CCPA</sub></p>
 
 <p align="center">
   <img src="assets/cert-google-cloud-digital-leader.jpg" height="160" alt="Google Cloud Digital Leader"/>
-  <img src="assets/cert-diplomado-iot.jpg" height="160" alt="Diplomado en Sistemas Embebidos e IoT, FP-UNA"/>
-  <img src="assets/cert-cyted-amaru-2024.jpg" height="160" alt="Certificado de póster, AMARU-CYTED 2024"/>
+  <img src="assets/cert-diplomado-iot.jpg" height="160" alt="Embedded Systems and IoT Diploma, FP-UNA"/>
+  <img src="assets/cert-cyted-amaru-2024.jpg" height="160" alt="Poster certificate, AMARU-CYTED 2024"/>
 </p>
-<p align="center"><sub>Google Cloud Digital Leader · Diplomado en Sistemas Embebidos e IoT, FP-UNA · Certificado de póster, AMARU-CYTED 2024</sub></p>
+<p align="center"><sub>Google Cloud Digital Leader · Embedded Systems and IoT Diploma, FP-UNA · Poster certificate, AMARU-CYTED 2024</sub></p>
 
 <p align="center">
-  <img src="assets/reconocimiento-unam-meia-2023.jpg" height="160" alt="Reconocimiento 2.º lugar, MeIA 2023 (UNAM)"/>
-  <img src="assets/cert-unam-meia-2023.jpg" height="160" alt="Constancia del taller MeIA 2023 (UNAM)"/>
-  <img src="assets/cert-cnv-pasantia.jpg" height="160" alt="Certificado de pasantía, CNV"/>
+  <img src="assets/reconocimiento-unam-meia-2023.jpg" height="160" alt="2nd place award, MeIA 2023 (UNAM)"/>
+  <img src="assets/cert-unam-meia-2023.jpg" height="160" alt="MeIA 2023 workshop certificate (UNAM)"/>
+  <img src="assets/cert-cnv-pasantia.jpg" height="160" alt="Internship certificate, CNV"/>
 </p>
-<p align="center"><sub>Reconocimiento 2.º lugar, MeIA 2023 (UNAM) · Constancia del taller MeIA 2023 (UNAM) · Certificado de pasantía, CNV</sub></p>
+<p align="center"><sub>2nd place award, MeIA 2023 (UNAM) · MeIA 2023 workshop certificate (UNAM) · Internship certificate, CNV</sub></p>
