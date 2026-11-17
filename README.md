@@ -95,6 +95,7 @@ Computer Engineer, graduated with distinction from FP-UNA, with over 4 years of 
 
 ### Publications & Presentations
 
+- **"Atención al cliente con IA en Oracle APEX 26"** (AI-powered customer service in Oracle APEX 26): talk at Oracle APEX Day, November 2026. Presented the AI customer-service assistant built on Oracle APEX 26.2 for a comprehensive healthcare management system, and the evolution of APEX AI features from version 24 to 26.2.
 - **"Contour-Point Signature in Registration of Tomography and Magnetic Resonance Images"**: poster and oral presentation at the XLIV National Congress of Applied and Computational Mathematics (CNMAC 2025), organized by SBMAC, Brazil, September 2025. Published in [*Proceeding Series of the Brazilian Society of Computational and Applied Mathematics*, v. 12 n. 1 (2026)](https://proceedings.sbmac.org.br/sbmac).
 - **"Eficiencia del uso del CPS en Registro de imágenes médicas"** (Efficiency of CPS in Medical Image Registration): remote talk at the V Meeting on Mathematics and Statistics Applied to the Social and Economic Sciences, Colombia, May 2025. Published in the meeting's proceedings (2026), [DOI: 10.18359/litgris.8305](https://doi.org/10.18359/litgris.8305).
 - **"Uso del descriptor firma punto-contorno en el registro de imágenes de tomografía y resonancia magnética"** (Contour-point signature descriptor for CT and MR image registration): poster at the 4th AMARU-CYTED International Specialization Courses Conference 2024, UNA, August 2024.
@@ -134,6 +135,13 @@ Spanish (native) · Guarani (native) · English (advanced reading and writing, i
 ### Appendix
 
 #### Photos
+
+<p align="center">
+  <img src="assets/foto-apex-day-2026-charla.jpg" height="160" alt="Talk at Oracle APEX Day 2026"/>
+  <img src="assets/foto-apex-day-2026-demo-sql.jpg" height="160" alt="Demo of the AI assistant at Oracle APEX Day 2026"/>
+  <img src="assets/foto-apex-day-2026-stand.jpg" height="160" alt="Excelsis booth at Oracle APEX Day 2026"/>
+</p>
+<p align="center"><sub>Talk at Oracle APEX Day 2026 · Demo of the AI assistant · Excelsis booth, Oracle Partner</sub></p>
 
 <p align="center">
   <img src="assets/foto-graduado-distinguido.jpg" height="160" alt="Graduated with distinction, FP-UNA 2025"/>

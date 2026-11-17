@@ -95,6 +95,7 @@ Ingeniero en Informática, graduado distinguido de la FP-UNA, con más de 4 año
 
 ### Publicaciones y presentaciones
 
+- **"Atención al cliente con IA en Oracle APEX 26"**: charla en el Oracle APEX Day, noviembre de 2026. Presenté el asistente de atención al cliente con IA desarrollado en Oracle APEX 26.2 sobre un sistema de gestión médica integral, y la evolución de las funcionalidades de IA de APEX de la versión 24 a la 26.2.
 - **"Contour-Point Signature in Registration of Tomography and Magnetic Resonance Images"**: póster y comunicación oral en el XLIV Congreso Nacional de Matemática Aplicada y Computacional (CNMAC 2025), organizado por la SBMAC, Brasil, septiembre de 2025. Publicado en [*Proceeding Series of the Brazilian Society of Computational and Applied Mathematics*, v. 12 n. 1 (2026)](https://proceedings.sbmac.org.br/sbmac).
 - **"Eficiencia del uso del CPS en Registro de imágenes médicas"**: ponencia remota en el V Encuentro de Matemáticas y Estadística Aplicadas a las Ciencias Sociales y Económicas, Colombia, mayo de 2025. Publicado en las *Memorias* del encuentro (2026), [DOI: 10.18359/litgris.8305](https://doi.org/10.18359/litgris.8305).
 - **"Uso del descriptor firma punto-contorno en el registro de imágenes de tomografía y resonancia magnética"**: póster en la 4.ª Jornada Internacional de Cursos de Especialización AMARU-CYTED 2024, UNA, agosto de 2024.
@@ -134,6 +135,13 @@ Español (nativo) · Guaraní (nativo) · Inglés (avanzado en lectura y escritu
 ### Anexo
 
 #### Fotos
+
+<p align="center">
+  <img src="assets/foto-apex-day-2026-charla.jpg" height="160" alt="Charla en el Oracle APEX Day 2026"/>
+  <img src="assets/foto-apex-day-2026-demo-sql.jpg" height="160" alt="Demo del asistente de IA en el Oracle APEX Day 2026"/>
+  <img src="assets/foto-apex-day-2026-stand.jpg" height="160" alt="Stand de Excelsis en el Oracle APEX Day 2026"/>
+</p>
+<p align="center"><sub>Charla en el Oracle APEX Day 2026 · Demo del asistente de IA · Stand de Excelsis, Oracle Partner</sub></p>
 
 <p align="center">
   <img src="assets/foto-graduado-distinguido.jpg" height="160" alt="Graduado distinguido, FP-UNA 2025"/>
